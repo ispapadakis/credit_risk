@@ -1,6 +1,6 @@
 # credit_risk
-Credit Risk Modeling in a Big-Data Setting
-*keywords*: Python, Pandas, Numpy, Keras, LightGBM, SKLEARN
+Credit Risk Modeling in a Big-Data Setting 
+(*keywords: Python, Pandas, Numpy, Keras, LightGBM, SKLEARN*)
 
 Apply machine learning and logistic regression to credit decisioning in a big-data setting (~900K cases).
 
